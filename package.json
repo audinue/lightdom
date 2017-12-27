@@ -1,7 +1,7 @@
 {
   "name": "lightdom",
   "version": "1.0.0",
-  "description": "A simple virtual DOM",
+  "description": "A simple virtual DOM.",
   "module": "lib/lightdom.js",
   "main": "lib/lightdom.umd.js",
   "author": "Audi Nugraha",
