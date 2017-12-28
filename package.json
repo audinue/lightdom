@@ -1,6 +1,6 @@
 {
   "name": "lightdom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple virtual DOM.",
   "module": "lib/lightdom.js",
   "main": "lib/lightdom.umd.js",
